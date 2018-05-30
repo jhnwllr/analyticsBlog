@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1527666831310.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "706E3D03",
+    "lastKnownWriteTime" : 1527670752,
+    "last_content_update" : 1527670752039,
+    "path" : "C:/Users/ftw712/Desktop/analyticsBlog/config.toml",
+    "project_path" : "config.toml",
+    "properties" : {
+        "cursorPosition" : "35,14",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "toml"
+}
