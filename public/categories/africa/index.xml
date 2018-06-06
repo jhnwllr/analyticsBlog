@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>John Waller Analytics</title>
-    <link>/</link>
-    <description>Recent content on John Waller Analytics</description>
+    <title>Africa on John Waller Analytics</title>
+    <link>/categories/africa/</link>
+    <description>Recent content in Africa on John Waller Analytics</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 06 Jun 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/africa/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -19,16 +19,6 @@
       <guid>/2018/06/06/downloads-in-africa/</guid>
       <description>Total Occurrence Downloads In AfricaHere we see that South Africa dominates the number of occurrence downloads coming from Africa with around 12k total downloads, since GBIF started recording download data in 2013.
 Other countries have very few downloads when compared to South Africa, with some countires having as few as 1-3 downloads since 2013.</description>
-    </item>
-    
-    <item>
-      <title>GBIF Download Statistics</title>
-      <link>/2018/05/30/gbif-download-statistics/</link>
-      <pubDate>Wed, 30 May 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/2018/05/30/gbif-download-statistics/</guid>
-      <description>Dataset DownloadsDatasets at gbif are often downloaded through the web interface, or through the api (via rgbif ect.). When a dataset is downloaded, this information is stored in a registry table called occurrence_download.
-Users can place various filters on the data in order to limit the number of records returned.</description>
     </item>
     
   </channel>

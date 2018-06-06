@@ -6,10 +6,20 @@
     <description>Recent content in Gbif on John Waller Analytics</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 30 May 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 06 Jun 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/gbif/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Downloads In Africa</title>
+      <link>/2018/06/06/downloads-in-africa/</link>
+      <pubDate>Wed, 06 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/06/06/downloads-in-africa/</guid>
+      <description>Total Occurrence Downloads In AfricaHere we see that South Africa dominates the number of occurrence downloads coming from Africa with around 12k total downloads, since GBIF started recording download data in 2013.
+Other countries have very few downloads when compared to South Africa, with some countires having as few as 1-3 downloads since 2013.</description>
+    </item>
     
     <item>
       <title>GBIF Download Statistics</title>
