@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>R on John Waller Analytics</title>
-    <link>/categories/r/</link>
-    <description>Recent content in R on John Waller Analytics</description>
+    <title>Downloads on John Waller Analytics</title>
+    <link>/tags/downloads/</link>
+    <description>Recent content in Downloads on John Waller Analytics</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 06 Jul 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/categories/r/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/downloads/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,16 +18,6 @@
       
       <guid>/2018/07/06/gbif-download-trends/</guid>
       <description>Explanation of toolThis tool plots the downloads through time for species or other taxonomic groups with more than 25 downloads at GBIF. Downloads at GBIF most often occur through the web interface. In a previous post, we saw that most users are downloading data from GBIF via filtering by scientific name (aka Taxon Key). Since the GBIF index currently sits at over 1 billion records (a 400+GB csv), most users will simplying filter by their taxonomic group of interest and then generate a download.</description>
-    </item>
-    
-    <item>
-      <title>Downloads In Africa</title>
-      <link>/2018/06/06/downloads-in-africa/</link>
-      <pubDate>Wed, 06 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/2018/06/06/downloads-in-africa/</guid>
-      <description>Total Occurrence Downloads In AfricaHere we see that South Africa dominates the number of occurrence downloads coming from Africa with around 12k total downloads, since GBIF started recording download data in 2013.
-Other countries have very few downloads when compared to South Africa, with some countires having as few as 1-3 downloads since 2013.</description>
     </item>
     
   </channel>

@@ -21,9 +21,18 @@
     </item>
     
     <item>
+      <title>Downloads</title>
+      <link>/categories/downloads/</link>
+      <pubDate>Fri, 06 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/downloads/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Gbif</title>
       <link>/categories/gbif/</link>
-      <pubDate>Wed, 06 Jun 2018 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 06 Jul 2018 00:00:00 +0000</pubDate>
       
       <guid>/categories/gbif/</guid>
       <description></description>
@@ -32,7 +41,7 @@
     <item>
       <title>R</title>
       <link>/categories/r/</link>
-      <pubDate>Wed, 06 Jun 2018 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 06 Jul 2018 00:00:00 +0000</pubDate>
       
       <guid>/categories/r/</guid>
       <description></description>
